@@ -30,3 +30,5 @@ Step 4:
 -Run the dashboard -> streamlit run dashboard.py
 
 The visualizer.ipynb notebook is included for: Exploratory data analysis (EDA)
+
+The StreamLit Dashboard Screenshots.pdf has the charts from the Streamlit Dashboard.
